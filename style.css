@@ -1,0 +1,16 @@
+
+    :root {
+      --bs-primary: #ab92d9;
+    }
+
+    body {
+      background-color: #c4c1c1;
+    }
+
+    .dashboard-card {
+      transition: 0.3s;
+    }
+
+    .dashboard-card:hover {
+      transform: scale(1.03);
+    }
